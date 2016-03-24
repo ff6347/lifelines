@@ -1,7 +1,8 @@
 # lifelines
-In this documentation you will find all information about my project "lifelines", which was part of the seminar [Input/Output Fundamentals of Process-Oriented Design] (https://incom.org/workspace/6176). 
-The course took place during the winter semster '15/'16 and was supervised by [Fabian Morón Zirfas] (https://github.com/fabiantheblind) at the [University of Applied Sciences Potsdam] (http://www.fh-potsdam.de/). 
-You can follow the whole process from my first analog algorithm to a final physical product, with a lot of experiments and thoughts inbetween.
+In this documentation you will find all information about my project "lifelines", 
+which was part of the seminar [Input/Output Fundamentals of Process-Oriented Design] (https://incom.org/workspace/6176). 
+The course took place during the winter semster '15/'16 and was supervised by [Fabian Morón Zirfas] (https://github.com/fabiantheblind) at the [University of Applied Sciences Potsdam] (http://www.fh-potsdam.de/).
+See the whole process from my first analog algorithm to a final physical product (with all the experiments and thoughts inbetween).
 
 Part 1 | Analog Algorithm
 ----------
