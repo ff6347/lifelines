@@ -20,11 +20,11 @@ Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.
   
 ###### Algorithm Number One: Results  
 
-BILD 1
-BILD 2
-BILD 3
-BILD 4
-BILD 5
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.1_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.2_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.3_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.4_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.5_lifelines.png)
 
 After seeing the first drawings of my first algorithm it became obviously that there was a lot space for different interpretations of the different people. Simultaneously I realised that the autor can influnece that fact directly. That's why playing with some more parameters/ rules was my focus in the second iteration. 
 
