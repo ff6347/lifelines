@@ -1,5 +1,6 @@
 # lifelines...
 ... was part of the seminar [Input/Output Fundamentals of Process-Oriented Design] (https://incom.org/workspace/6176) supervised by [Fabian Morón Zirfas](https://github.com/fabiantheblind).
+
 See the whole process from the first analog algorithm to a final physical product (with all the experiments and thoughts inbetween).
 
 Part 1 | Analog Algorithm
