@@ -71,7 +71,7 @@ Additionaly the setup of the drawing situation itself changed: the person had an
     material: nib/ carton, brown/ ink, green
     use all materials. draw the lines/ wrinkels of your left or right palm. 
     don’t draw the contour of your hand. 
-    scale 1:1 Mark one of the lines with a free choosen title.
+    scale 1:1 Give one of the lines a free choosen title.
   
 ###### Algorithm Number Three: Results  
 
@@ -81,7 +81,16 @@ BILD 3
 BILD 4
 BILD 5
 
+Part 2 | Digital Algorithm
+----------
+In the second part the analog algorithm was translated into a digital one. A perfect tool to create graphics to a drawing canvas is java script by using [p5.js] (http://p5js.org/), which is very similar to the processing language.
+Concerning to the last analog result above it was the aim to see LIFELINES which reminds the observer on the individual lines in your palm.
 
+###### Digital Algorithm: Screenshots
+
+BILD 1
+BILD 2
+BILD 3
 
 
 
