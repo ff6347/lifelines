@@ -52,11 +52,12 @@ After seeing the first drawings of my first algorithm it became obviously that t
   
 ###### Algorithm Number Two: Results  
 
-BILD 1
-BILD 2
-BILD 3
-BILD 4
-BILD 5
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.1_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.2_lifelines.png)
+
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.3_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.4_lifelines.png)
+
 
 
 Only a small amount of specifications (f.e. duration and material)  created a total different frame for the user to convert the words into a drawing. One person started to draw along the contour of parts of her body- that was the inspiration for the third iteration of an analog algorithm. 
