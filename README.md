@@ -9,13 +9,13 @@ Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.
 
 ###### Algorithm Number One
 
-  Original text:
-  schwarz gefärbtes wasser.
-  zeichne eine möglichst lange linie.
+    Original text:
+    schwarz gefärbtes wasser.
+    zeichne eine möglichst lange linie.
   
-  English translation:
-  black colored water.
-  draw a preferably long line.
+    English translation:
+    black colored water.
+    draw a preferably long line.
   
 ###### Algorithm Number One: Results  
 
