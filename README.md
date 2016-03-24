@@ -1,6 +1,6 @@
 # lifelines
 In this documentation you will find all information about my project "lifelines", which was part of the seminar "Input/Output Fundamentals of Process-Oriented Design". The course took place during the winter semster '15/'16 and was supervised by Fabian Morón Zirfas at the University of Applied Sciences Potsdam. 
-In this documentation you can follow the whole process from my first analog algorithm to a physical product, with a lot of experiments and thoughts in between.
+You can follow the whole process from my first analog algorithm to a final physical product, with a lot of experiments and thoughts inbetween.
 
 Part 1 | Analog Algorithm
 ----------
@@ -83,8 +83,8 @@ BILD 5
 
 Part 2 | Digital Algorithm
 ----------
-In the second part the analog algorithm was translated into a digital one. A perfect tool to create graphics to a drawing canvas is java script by using [p5.js] (http://p5js.org/), which is very similar to the processing language.
-Concerning to the last analog result above it was the aim to see LIFELINES which reminds the observer on the individual lines in your palm.
+In the second part the analog algorithm was translated into a digital one. A perfect tool to create graphics to a drawing canvas is java script by using the libary [p5.js] (http://p5js.org/), which is very similar to the processing language.
+Concerning to the last analog result above it was the aim to visualize LIFELINES which reminds you on the individual lines in your palm.
 
 ###### Digital Algorithm: Screenshots
 
@@ -92,12 +92,32 @@ BILD 1
 BILD 2
 BILD 3
 
+Digital Result / LINK INDEX DATEI
 
+Part 3 | Application of the Algorithm
+----------
 
+For which application you could use your code or your digital result for? 
 
+###### Idea Number One
+        You could create an individual graphic as a signature. It's a modern version of a fingerprint.
 
+###### Idea Number One: Mock Up
 
+BILD 1
 
+###### Idea Number Two
+        When you read a book, you do one thing quite similar as a palm reader does: you do it line by line. 
+        Because of this fact i came up with the idea for the following product: a line-orientated bookmark. 
+        Bookmarks a usually page orientated- you can only mark a page with them. 
+        But with this recycled product (made of a floppy disk blende and magnets of a cigarette paper wrapper) 
+        you’re free to interrupt reading within every line. You can clip it on a page of a book 
+        and the small window make it easy to find back to the line you would like to continue reading.
+
+###### Idea Number One: Mock Up
+
+BILD 1
+BILD 2
 
 
 
