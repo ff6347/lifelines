@@ -9,7 +9,6 @@ Part 1 | Analog Algorithm
 Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.wikipedia.org/wiki/Sol_LeWitt), we started with writing an analog algorithm and giving it to our course-mates to follow the instructions.
 
 ###### Algorithm Number One
-
     Original text:
     schwarz gefärbtes wasser.
     zeichne eine möglichst lange linie.
@@ -19,7 +18,6 @@ Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.
     draw a preferably long line.
   
 ###### Results  
-
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.1_lifelines.jpg) 
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.2_lifelines.jpg)
 
@@ -31,7 +29,6 @@ After seeing the first drawings of my first algorithm it became obviously that t
 
 
 ###### Algorithm Number Two
-
     Original text:
     Dauer: bis zu 3 minuten
     Material: Stift, rot
@@ -47,7 +44,6 @@ After seeing the first drawings of my first algorithm it became obviously that t
     Draw along the contour. Repeat steps of the process or not.
   
 ###### Results  
-
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/2.2_lifelines.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/2.3_lifelines.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/2.4_lifelines.jpg)
@@ -58,7 +54,6 @@ Additionaly the setup of the drawing situation itself changed: the person had an
 
 
 ###### Algorithm Number Three
-
     Original text:
     die dauer eines liedes.
     material: tintenfedern/ karton, braun/ tinte, grün
@@ -75,7 +70,6 @@ Additionaly the setup of the drawing situation itself changed: the person had an
     scale 1:1 Give one of the lines a free choosen title.
   
 ###### Results  
-
 ![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.1_lifelines.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.6_lifelines.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.3_lifelines.jpg)
@@ -89,7 +83,6 @@ In the second part the analog algorithm was translated into a digital one. A per
 Concerning to the last analog result above it was the aim to visualize LIFELINES which reminds you on the individual lines in your palm.
 
 ###### Screenshots
-
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.1_lifelines_digital.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.2_lifelines_digital.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.3_lifelines_digital.jpg)
@@ -107,7 +100,6 @@ For which application you could use your code or your digital result for?
         You could create an individual graphic as a signature. It's a modern version of a fingerprint.
 
 ###### Idea Number One: Mock Up
-
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/5.1_lifelines_signature.jpg)
 
 
@@ -120,7 +112,6 @@ For which application you could use your code or your digital result for?
         and the small window make it easy to find back to the line you would like to continue reading.
 
 ###### Idea Number Two: Mock Up
-
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/5.2_lifelines_bookmark.jpg)
 
 
