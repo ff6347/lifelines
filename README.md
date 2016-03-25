@@ -79,8 +79,8 @@ Additionaly the setup of the drawing situation itself changed: the person had an
 
 Part 2 | Digital Algorithm
 ----------
-In the second part the analog algorithm was translated into a digital one. A perfect tool to create graphics to a drawing canvas is java script by using the libary [p5.js] (http://p5js.org/), which is very similar to the processing language.
-Concerning to the last analog result above it was the aim to visualize LIFELINES which reminds you on the individual lines in your palm.
+In the second part the analog algorithm was translated into a digital one. A perfect tool to create graphics to a drawing canvas is the java script libary [p5.js] (http://p5js.org/), which is very similar to the processing language.
+Concerning to the analog results above it was the aim to visualize LIFELINES which reminds you on the individual lines in your palm.
 
 ###### Screenshots
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.1_lifelines_digital.jpg)
