@@ -97,9 +97,9 @@ Part 3 | Application of the Algorithm
 For which application you could use your code or your digital result for? 
 
 ###### Idea Number One
-        You could create an individual graphic as a signature. It's a modern version of a fingerprint.
+        You could create an individual graphic as a signature. It's a digital fingerprint with an aesthetic aspect.
 
-###### Idea Number One: Mock Up
+###### Mock Up
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/5.1_lifelines_signature.jpg)
 
 
@@ -111,7 +111,7 @@ For which application you could use your code or your digital result for?
         you’re free to interrupt reading within every line. You can clip it on a page of a book 
         and the small window make it easy to find back to the line you would like to continue reading.
 
-###### Idea Number Two: Mock Up
+###### Final Product
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/5.2_lifelines_bookmark.jpg)
 
 
