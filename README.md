@@ -20,7 +20,7 @@ Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.
   
 ###### Algorithm Number One: Results  
 
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.1_lifelines.png)
+![] (https://github.com/antsteelmule/lifelines/blob/master/1.5_lifelines.jpg)
 
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.2_lifelines.png)
 
