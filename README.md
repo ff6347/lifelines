@@ -1,4 +1,4 @@
-# lifelines...
+# Lifelines...
 
 ... was part of the seminar [Input/Output Fundamentals of Process-Oriented Design] (https://incom.org/workspace/6176) supervised by [Fabian Morón Zirfas](https://github.com/fabiantheblind).
 See the whole process from the first analog algorithm to a final physical product (with all the experiments and thoughts inbetween).
@@ -18,21 +18,17 @@ Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.
     black colored water.
     draw a preferably long line.
   
-###### Algorithm Number One: Results  
+###### Results  
 
-![] (https://github.com/antsteelmule/lifelines/blob/master/1.5_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.1_lifelines.jpg) 
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.2_lifelines.jpg)
 
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.2_lifelines.png)
-
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.3_lifelines.png)
-
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.4_lifelines.png)
-
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/1.5_lifelines.png)
-
-
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.3_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.5_lifelines.jpg)
 
 After seeing the first drawings of my first algorithm it became obviously that there was a lot space for different interpretations of the different people. Simultaneously I realised that the autor can influnece that fact directly. That's why playing with some more parameters/ rules was my focus in the second iteration. 
+
+
 
 ###### Algorithm Number Two
 
@@ -50,19 +46,16 @@ After seeing the first drawings of my first algorithm it became obviously that t
     Choose an item, which dont cross your drawing frame. 
     Draw along the contour. Repeat steps of the process or not.
   
-###### Algorithm Number Two: Results  
+###### Results  
 
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.1_lifelines.png)
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.2_lifelines.png)
-
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.3_lifelines.png)
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22images%22]/2.4_lifelines.png)
-
-
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/2.2_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/2.3_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/2.4_lifelines.jpg)
 
 Only a small amount of specifications (f.e. duration and material)  created a total different frame for the user to convert the words into a drawing. One person started to draw along the contour of parts of her body- that was the inspiration for the third iteration of an analog algorithm. 
 
 Additionaly the setup of the drawing situation itself changed: the person had an provided mp3 player with headphones to isolate itself from the outside during the drawing process with a self-imposed music piece.
+
 
 ###### Algorithm Number Three
 
@@ -81,26 +74,29 @@ Additionaly the setup of the drawing situation itself changed: the person had an
     don’t draw the contour of your hand. 
     scale 1:1 Give one of the lines a free choosen title.
   
-###### Algorithm Number Three: Results  
+###### Results  
 
-BILD 1
-BILD 2
-BILD 3
-BILD 4
-BILD 5
+![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.1_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.6_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.3_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.4_lifelines.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/["assets"%2C "images"]/3.5_lifelines.jpg)
+
 
 Part 2 | Digital Algorithm
 ----------
 In the second part the analog algorithm was translated into a digital one. A perfect tool to create graphics to a drawing canvas is java script by using the libary [p5.js] (http://p5js.org/), which is very similar to the processing language.
 Concerning to the last analog result above it was the aim to visualize LIFELINES which reminds you on the individual lines in your palm.
 
-###### Digital Algorithm: Screenshots
+###### Screenshots
 
-BILD 1
-BILD 2
-BILD 3
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.1_lifelines_digital.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.2_lifelines_digital.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.3_lifelines_digital.jpg)
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.4_lifelines_digital.jpg)
 
 Digital Result / LINK INDEX DATEI
+
 
 Part 3 | Application of the Algorithm
 ----------
@@ -112,7 +108,8 @@ For which application you could use your code or your digital result for?
 
 ###### Idea Number One: Mock Up
 
-BILD 1
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/5.1_lifelines_signature.jpg)
+
 
 ###### Idea Number Two
         When you read a book, you do one thing quite similar as a palm reader does: you do it line by line. 
@@ -122,21 +119,18 @@ BILD 1
         you’re free to interrupt reading within every line. You can clip it on a page of a book 
         and the small window make it easy to find back to the line you would like to continue reading.
 
-###### Idea Number One: Mock Up
+###### Idea Number Two: Mock Up
 
-BILD 1
-BILD 2
-
+![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/5.2_lifelines_bookmark.jpg)
 
 
 
 
 
-The course "Input/Output Fundamentals of Process-Oriented Design" took place during the winter semester '15/'16 at the [University of Applied Sciences Potsdam] (http://www.fh-potsdam.de/).
-See more results of the seminar:
-1- Algorithms (analog-digital-adaption): LINK/ LIFELINES
-2- Datavisualization (of the International Space Station Data): LINK/ ENCOUNTERS IN SPACE
-3- Physical Computing (creation of a modular chain): LINK/ TRANSL8R
+
+The course "Input/Output Fundamentals of Process-Oriented Design" took place during the winter semester '15/'16 at the [University of Applied Sciences Potsdam] (http://www.fh-potsdam.de/). [HERE] (https://interface.fh-potsdam.de/eingabe-ausgabe/) you can find more projects.
+
+[BACK TO TOP] (https://github.com/antsteelmule/lifelines/blob/master/README.md)
 
 
 
