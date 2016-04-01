@@ -88,7 +88,7 @@ Concerning to the analog results above it was the aim to visualize LIFELINES whi
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.3_lifelines_digital.jpg)
 ![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/4.4_lifelines_digital.jpg)
 
-Digital Result / LINK INDEX DATEI
+Digital Result / LINK folgt
 
 
 Part 3 | Application of the Algorithm
