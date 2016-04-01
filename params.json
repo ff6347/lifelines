@@ -1,6 +1,0 @@
-{
-  "name": "Lifelines",
-  "tagline": "",
-  "body": "`<html lang=\"en\">`\r\n`<head>`\r\n  `<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">`\r\n\r\n  `<title>lifelines</title>`\r\n  `<meta name=\"description\" content=\"something\">`\r\n  `<meta name=\"antsteelmule\" content=\"me\">`\r\n`</head>`\r\n`<body>`\r\n  `<script type=\"text/javascript\" src=\"lib/p5.min.js\"></script>`\r\n  `<script type=\"text/javascript\" src=\"sketch.js\"></script>`\r\n`</body>`\r\n`</html>`",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
