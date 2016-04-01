@@ -1,0 +1,6 @@
+{
+  "name": "Lifelines",
+  "tagline": "Microsite: ",
+  "body": "var a = 2;\r\n\r\nvar b =0.301;\r\n\r\nvar aS = 0.004;\r\n\r\nvar bs = 0.001;\r\n\r\nvar count = 10;\r\n\r\n`function setup() {\r\n\r\ncreateCanvas(800,800);\r\n\r\nsmooth();\r\n\r\nbackground(255);\r\n\r\nnoFill();\r\n\r\nstroke(0,500);\r\n\r\n}\r\n\r\n\r\nfunction draw(){\r\n\r\nif(count == 10) {\r\n\r\nfill (255, 5);\r\n\r\n//rect (0,0, width, height);\r\n\r\nnoFill();\r\n\r\ncount =0;\r\n\r\n}\r\n\r\ncount ++;\r\n\r\n \r\n\r\ntranslate(width/2,\r\nheight/2); // koordinatensystem im Mittelpunkt\r\ntranslate(cos(a)*500, sin(b)*300);\r\n\r\nrotate(a*5);\r\n\r\nstroke(10*sin(a),\r\n150*cos(b), 10*sin (a));\r\n\r\nstrokeWeight (0.1);\r\n\r\nellipse(0,0,100\r\n+80*tan(pow(b, 2)),100);\r\n\r\na += aS;\r\n\r\nb += aS;\r\n\r\n}`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
