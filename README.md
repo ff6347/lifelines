@@ -18,11 +18,11 @@ Inspired by works of the us-amercian conceptual artist [Sol LeWitt] (https://de.
     draw a preferably long line.
   
 ###### Results  
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.1_lifelines.jpg) 
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.2_lifelines.jpg)
+![] (1.1_lifelines.jpg) 
+![] (1.2_lifelines.jpg)
 
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.3_lifelines.jpg)
-![] (https://github.com/antsteelmule/lifelines/blob/master/[%22assets%22%2C%20%22images%22]/1.5_lifelines.jpg)
+![] (1.3_lifelines.jpg)
+![] (1.5_lifelines.jpg)
 
 After seeing the first drawings of my first algorithm it became obviously that there was a lot space for different interpretations of the different people. Simultaneously I realised that the autor can influnece that fact directly. That's why playing with some more parameters/ rules was my focus in the second iteration. 
 
